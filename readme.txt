@@ -1,7 +1,7 @@
 Steps to run the project 
 
 1. create database
-    CREATE DATABASE ishita;
+    CREATE DATABASE anushka;
 2. create menu table with the parameters
     CREATE TABLE menu (
     mid INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
